@@ -208,11 +208,7 @@ class YashRaj:
 <div align="center">
 
 <a href="https://github.com/Yashraj413">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=YOUR_BEST_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Yashraj413">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=YOUR_SECOND_PROJECT&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=[YOUR_BEST_PROJECT](https://resume-analytics-project.vercel.app/)&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -230,8 +226,6 @@ class YashRaj:
 </a>
 
 </div>
-
-> ⭐ Replace `YOUR_BEST_PROJECT`, `YOUR_SECOND_PROJECT`, etc. with the actual repository names you want to showcase.
 
 ---
 
