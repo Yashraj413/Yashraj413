@@ -14,15 +14,15 @@ jobs:
 
     steps:
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v5
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Yashraj413
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
