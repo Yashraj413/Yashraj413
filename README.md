@@ -141,17 +141,26 @@ class YashRaj:
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Yashraj413&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-  height="180"
-  alt="Yash Raj's GitHub Stats"
-/>
+<table>
+<tr>
+<td align="center">
+<b>📦 Total Repositories</b><br><br>
+<a href="https://github.com/Yashraj413?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashraj413&style=for-the-badge&logo=github&logoColor=white&color=06B6D4" />
+</a>
+</td>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj413&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  height="180"
-  alt="Yash Raj's Top Languages"
-/>
+<td align="center">
+<b>👥 Followers</b><br><br>
+<img src="https://img.shields.io/github/followers/Yashraj413?style=for-the-badge&logo=github&color=06B6D4" />
+</td>
+
+<td align="center">
+<b>⭐ Stars</b><br><br>
+<img src="https://img.shields.io/github/stars/Yashraj413?style=for-the-badge&logo=github&color=F59E0B" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,7 +171,7 @@ class YashRaj:
 <img
   src="https://streak-stats.demolab.com/?user=Yashraj413&theme=tokyonight&hide_border=true"
   width="70%"
-  alt="Yash Raj's GitHub Contribution Streak"
+  alt="Yash Raj GitHub Streak"
 />
 
 </div>
