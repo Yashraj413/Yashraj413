@@ -201,34 +201,6 @@ class YashRaj:
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Yashraj413">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=[YOUR_BEST_PROJECT](https://resume-analytics-project.vercel.app/)&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Yashraj413">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=YOUR_THIRD_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Yashraj413">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashraj413&repo=YOUR_FOURTH_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 <!-- ===================== CODING ===================== -->
 
 # 🧠 Coding & Problem Solving
