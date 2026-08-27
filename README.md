@@ -141,9 +141,17 @@ class YashRaj:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashraj413&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Yashraj413&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+  height="180"
+  alt="Yash Raj's GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj413&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj413&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  height="180"
+  alt="Yash Raj's Top Languages"
+/>
 
 </div>
 
@@ -151,30 +159,35 @@ class YashRaj:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Yashraj413&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj413"
-  alt="Yash Raj's GitHub Activity Graph"
-  width="100%"
+  src="https://streak-stats.demolab.com/?user=Yashraj413&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="Yash Raj's GitHub Contribution Streak"
 />
 
 </div>
+
 ---
 
 ## 🐍 My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashraj413/Yashraj413/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Yashraj413/Yashraj413/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Yashraj413/Yashraj413/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Yashraj413/Yashraj413/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
