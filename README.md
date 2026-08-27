@@ -161,10 +161,13 @@ class YashRaj:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj413&bg_color=0f172a&color=06b6d4&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj413"
+  alt="Yash Raj's GitHub Activity Graph"
+  width="100%"
+/>
 
 </div>
-
 ---
 
 ## 🐍 My Contributions
