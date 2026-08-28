@@ -1,5 +1,5 @@
 <!-- ===================== HERO ===================== -->
-
+     
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:06B6D4&height=230&section=header&text=YASH%20RAJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20FULL%20STACK%20%7C%20DATA%20%7C%20BUILDING%20REAL-WORLD%20THINGS&descAlignY=58&descSize=17" width="100%"/>
